@@ -1,0 +1,3 @@
+This is some practice text. It's not important what I write, just that I change something.
+
+I will also have to delete this line after this. On second thought, with practice, I love GIT HUB!
